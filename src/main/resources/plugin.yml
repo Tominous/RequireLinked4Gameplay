@@ -1,0 +1,4 @@
+name: RequireLinked4Gameplay
+version: ${project.version}
+main: github.scarsz.requirelinkedforgameplay.Plugin
+depend: [DiscordSRV]

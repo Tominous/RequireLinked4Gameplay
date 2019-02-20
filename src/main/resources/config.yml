@@ -1,0 +1,6 @@
+Message: "&4&lYou must link your Discord account to play. Run /discord link to get to it."
+RestrictedCommands: []
+RestrictedCommandsIsWhitelist: false
+SubscriberRoleRequired: false
+SubscriberMessage: "&4&lYou must be subscribed on Twitch to be able to play."
+SubscriberRoleId: "00000000000000000"
